@@ -7,7 +7,10 @@
 </div>
 
 <h1 align="center">Gibrán Alcázar</h1>
-<a href="https://gibranalcazar.github.io/gibranalcazar/" target="_blank">Portfolio</a>
+
+<h2 align="center">
+<a href="https://gibranalcazar.github.io/gibranalcazar/" target="_blank">Go to Home Page</a>
+</h2>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gibranalcazar/gibranalcazar?color=56BEB8">
