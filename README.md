@@ -50,9 +50,9 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/gibranalcazar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="caro barreiro" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/gibran-alcazar/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="caro barreiro" height="20" width="20" /></a>
-<a href="mailto:gibran@live.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/email.svg" alt="caro barreiro" height="20" width="20" /></a>
+<a href="https://github.com/gibranalcazar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gibranalcazar" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/gibran-alcazar/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gibranalcazar" height="20" width="20" /></a>
+<a href="mailto:gibran@live.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/envelope.svg" alt="gibranalcazar" height="20" width="20" /></a>
 </p>
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
