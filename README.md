@@ -32,9 +32,6 @@
 
 <hr> -->
 
-<h2 align="center">
-<a href="https://gibranalcazar.github.io/gibranalcazar/" target="_blank">Go to Home Page / Portfolio</a>
-</h2>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,6 +43,10 @@
   <a href="https://github.com/gibranalcazar" target="_blank">Author</a>
 </p>
 
+<br>
+<h2 align="center">
+<a href="https://gibranalcazar.github.io/gibranalcazar/" target="_blank">Go to Home Page / Portfolio</a>
+</h2>
 <br>
 
 ## :dart: About ##
