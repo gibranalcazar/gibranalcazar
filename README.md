@@ -8,6 +8,11 @@
 
 <h1 align="center">Gibrán Alcázar</h1>
 
+<p align="center">
+<a href="https://github.com/gibranalcazar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gibranalcazar" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/gibran-alcazar/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gibranalcazar" height="20" width="20" /></a>
+<a href="mailto:gibran@live.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gibranalcazar" height="20" width="20" /></a>
+</p>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gibranalcazar/gibranalcazar?color=56BEB8">
