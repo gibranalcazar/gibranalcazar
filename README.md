@@ -83,7 +83,7 @@ Made with :heart: by <a href="https://github.com/gibranalcazar" target="_blank">
 
 <a href="#top">Back to top</a>
 
-### Hi there 👋 I'm Caro Barreiro
+
 <p align="center">
 <a href="https://github.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="caro barreiro" height="20" width="20" /></a>
 <a href="https://twitter.com/carobarreirov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="caro barreiro" height="20" width="20" /></a>
