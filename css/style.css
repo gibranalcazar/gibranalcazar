@@ -1,8 +1,6 @@
 .nav-link {
     color: #07acc9;
     font-size: 1.5em;
-    font-family: 'Lora', serif;
-    font-family: 'Hind Madurai', sans-serif;
     font-family: 'Macondo', cursive;
     font-weight: bold;
 }
@@ -48,8 +46,21 @@
 }
 .contact-me{
     padding-top: 100px;
+    color: rgb(72, 170, 11);
+}
+
+.color-3{
+    color: rgb(72, 170, 11);
+}
+.color-4 {
+    color: #07acc9;
 }
 
 .video-container{
     padding-top: 100px;
+}
+
+#hi{
+    font-family: 'Oswald', sans-serif;
+    font-size: 4em;
 }
